@@ -43,7 +43,7 @@ flake8==3.9.2
 flake8-black==0.2.3
 flake8-import-order==0.18.1
 future==0.18.2
--e git+git@github.com:quatrope/garpar.git@71d87a33b8fe7b66c5de121ba82fb83bd774ffe3#egg=garpar
+https://github.com/quatrope/garpar/archive/refs/heads/master.zip
 h5py==3.6.0
 idna==2.10
 imagesize==1.2.0
